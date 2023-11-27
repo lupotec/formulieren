@@ -16,7 +16,7 @@ if(isset($_SESSION['ingelogd'])){echo "<center><br><br><br><br><br>U bent al ing
 <body>
 <br><br><br><br>
 <div class="container">
-
+	<a href='index.php'> HOME </a>
 	<div class="panel panel-primary">
 		<div class="panel-heading">Inloggen:</div>
 		<div class="panel-body">
